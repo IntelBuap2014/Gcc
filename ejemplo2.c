@@ -1,5 +1,5 @@
-#include <cabecera.h>
+#include "cabecera.h"
 int main(int argc, const char *argv[]){
-	hola("mundo");
+	nombre("Adrian");
 	return 0;
 }
